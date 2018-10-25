@@ -1,0 +1,2 @@
+- An enumerated type is a sequence of named numeric values.
+- For example, you can define an enumerated type of name "Color" in the package "enumPackage" with the values "brown", "blond", "black".
