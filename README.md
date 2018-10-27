@@ -17,3 +17,6 @@
       - The toString() method
   - (8) Inheritance
   - (9) InstanceOf
+  - (10) The getClass() method of the Object class
+      - getName()
+      - getSimpleName()
