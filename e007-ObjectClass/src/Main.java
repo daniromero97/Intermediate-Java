@@ -1,11 +1,11 @@
+import utils.Car;
+import utils.Person;
+
 /*
     Author: Daniel Romero
     Exercise: equals() and toString()
 */
 
-
-import utils.Car;
-import utils.Person;
 
 // Class Main
 public class Main
@@ -14,9 +14,10 @@ public class Main
     void init()
     {
         Person p = new Person("Gonzalo", 25);
-        Person p2 = new Person("Gonzalo", 25);
+        Person p2 = new Person("Gonzalo", 28);
         Car c = new Car("Audi", 2010, 28000);
-        Car c2 = new Car("Bmw", 2013, 31000);
+        Car c2 = new Car("Audi", 2013, 28000);
+        Car c3 = c;
 
         System.out.println("Method toString () overwritten\n---------------------");
         System.out.println(p.toString());
@@ -25,19 +26,14 @@ public class Main
         System.out.println(c.toString());
 
 
-
         System.out.println("\n\n---------------- equals ----------------");
-        System.out.println(p.equals(p2));
+        System.out.println("c.equals(c2): " + c.equals(c2));    //  The references point to different memory areas. (Different objects)
+        System.out.println("p.equals(p2)" + p.equals(p2));      //  Method equals() overwritten, they are comparing their names
+        System.out.println("c.equals(c3): " + c.equals(c3));    //  References point to the same memory area.
 
-        String s = new String("Gonzalo");
-        String s2 = new String("Gonzalo");
-        System.out.println(s == s2);
-        System.out.println(s.equals(s2));
-
-        String s3 = "hello", s4 = "hello";
-        System.out.println(s3 == s4);
-        System.out.println(s3.equals(s4));
-
+        System.out.println("(c == c2): " + (c == c2));    //  The references point to different memory areas. (Different objects)
+        System.out.println("(p == p2)" + (p == p2));      //  The references point to different memory areas. (Different objects)
+        System.out.println("(c == c3): " + (c == c3));    //  References point to the same memory area.
     }
 
     // Main method

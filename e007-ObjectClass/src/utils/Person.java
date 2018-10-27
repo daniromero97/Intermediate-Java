@@ -49,4 +49,10 @@ public class Person
         return "Name: " + name +
                 "\nAge: " + age;
     }
+
+    @Override
+    public boolean equals(Object obj) {
+        Person p = (Person) obj;
+        return p.getName().equals(this.getName());
+    }
 }
