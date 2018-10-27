@@ -1,0 +1,2 @@
+- The "getClass" method of the "Object" class applied to an object returns an object of type "Class" with the data type of that object.
+- It can be used to obtain metadata of this class.
