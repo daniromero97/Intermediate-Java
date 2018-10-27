@@ -8,15 +8,15 @@
           The method returns true if the objects are equal and false otherwise.
 
     * The toString() method
-        Basically it is used to convert an object to string.
+         Basically it is used to convert an object to string.
 
     * Other methods that will be explained
-    	clone()
-        finalize()
-        getClass()
-        notify()
-        notifyAll()
-        wait()
+         clone()
+         finalize()
+         getClass()
+         notify()
+         notifyAll()
+         wait()
 
 
 - Oficial documentation:
