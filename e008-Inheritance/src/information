@@ -1,0 +1,5 @@
+- The idea of inheritance is the creation of new classes from another already existing.
+- When one class "inherits" another, it inherits its public or protected methods.
+- The existing class is called superclass or parent class and the new class is called subclass or daughter class.
+- Through inheritance we can add new functionalities, and we can overwrite the inherited ones. Overwriting a method is redefining it in the inherited class.
+- If we want the method we are going to overwrite to continue to perform the functionalities of the parent class in addition to the new ones, we use "super ();"
