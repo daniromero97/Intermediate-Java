@@ -15,6 +15,7 @@
   - (7) ObjectClass
       - The equals() method
       - The toString() method
+      - Overwriting methods
   - (8) Inheritance
   - (9) InstanceOf
   - (10) The getClass() method of the Object class
