@@ -1,0 +1,2 @@
+- Java has exceptions for the control of almost all errors, however, there will be times when we are interested in creating our own exception.
+- By creating a class that extends from RuntimeException we can define our own exceptions.
