@@ -3,7 +3,7 @@ import utils.Person;
 
 /*
     Author: Daniel Romero
-    Exercise:
+    Exercise: creating our own exception
 */
 
 
