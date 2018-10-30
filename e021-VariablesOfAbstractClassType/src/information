@@ -1,0 +1,1 @@
+- It is not possible to create objects of an abstract class, but to declare type variables an abstract class and assign them an object of a class that implements all abstract methods of that abstract class.
