@@ -1,6 +1,6 @@
 /*
     Author: Daniel Romero
-    Exercise:
+    Exercise: inner class
 */
 
 
@@ -15,7 +15,7 @@ public class Main
         i.print();
 
         System.out.println("------------------- or ------------------");
-        
+
         new ExampleClass().new cInner().print();
     }
 
