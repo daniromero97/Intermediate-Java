@@ -1,0 +1,2 @@
+- In Java you can define variables, attributes or parameters of type an interface.
+- The values that can be assigned to such elements are the "null" value or any object that implements said interface.
