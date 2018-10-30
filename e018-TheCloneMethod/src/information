@@ -1,0 +1,5 @@
+- clone() method.
+    * If we want to make a copy of an object because for example it has many methods, we use the clone() method.
+    * Why can not we do "Person p2 = p;"?
+        With this we are matching their memory addresses, so if we make a change in one of the objects it will affect the other.
+    * To be able to clone objects, we need to implement the Cloneable interface and overwrite the clone() method.
