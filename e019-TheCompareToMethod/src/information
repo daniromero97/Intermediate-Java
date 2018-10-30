@@ -1,0 +1,4 @@
+- toCompare() method.
+    * The compareTo() method is used to perform a natural sort on a string.
+        Natural classification means the sort order that is applied to the object, for example, lexical order for String, numerical order for ordering integers, etc.
+    * To use it with our own classes, we must implement the Comparable interface and overwrite the compareTo() method.
