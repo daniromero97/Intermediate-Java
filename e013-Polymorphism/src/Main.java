@@ -3,7 +3,7 @@ import vehicles.Motorcycle;
 
 /*
     Author: Daniel Romero
-    Exercise: 
+    Exercise: polymorphism
 */
 
 
