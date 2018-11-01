@@ -34,4 +34,21 @@
       - implements Cloneable
   - (19) The compareTo() method
       - implements Comparable<>
+  - (20) Abstract class
+  - (21) Variables of abstract class type
+  - (22) Inner class
+  - (23) Anonymous classes
+  - (24) Events
+      - Anonymous classes that implement an interface
+  - (25) Generic class
+      - Use of generic class
+      - Conventions for generics
+  - (26) Serialization
+      - Write serialization
+      - Read serialization
+  - (27) Threads
+      - extends Thread
+      - implements Runnable
+  
+  
 
