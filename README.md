@@ -73,5 +73,9 @@
       - BorderLayout
       - FlowLayout
       - Jpanel (Graphic component)
-  
+  - (32) Layouts
+      - BoxLayout
+      - createRigidArea() method
+      - createVerticalGlue() method
+      - createHorizontalGlue() method
 
