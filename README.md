@@ -69,6 +69,9 @@
       - JComboBox
       - JList
       - JSpinner
-  
+  - (31) Layouts
+      - BorderLayout
+      - FlowLayout
+      - Jpanel (Graphic component)
   
 
