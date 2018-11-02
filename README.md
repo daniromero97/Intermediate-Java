@@ -1,6 +1,7 @@
-# Intermediate-Java (OOP)
+# Intermediate-Java 
 
-### Introduction to the bases of Object Oriented Programming.
+### Introduction to the bases of Object Oriented Programming (OOP).
+### Introduction to graphical interfaces with Swing (GUI).
 
   - (1) Introduction
       - Bases and concepts of object-oriented programming.
