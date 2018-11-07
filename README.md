@@ -115,4 +115,8 @@
   - (43) JSplitPane
   - (44) JPopupMenu
   - (45) JTabbedPane 
+  - (46) JTree
+      - JTree
+      - DefaultMutableTreeNode
+      - JScrollPane
 
