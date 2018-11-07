@@ -114,5 +114,5 @@
       - SwingWorker
   - (43) JSplitPane
   - (44) JPopupMenu
-   
+  - (45) JTabbedPane 
 
