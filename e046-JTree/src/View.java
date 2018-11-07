@@ -110,7 +110,7 @@ public class View extends JFrame implements ActionListener
             }
             catch (ArrayIndexOutOfBoundsException e1)
             {
-                System.out.println("Write a number");
+                System.out.println("Node not found");
             }
         }
     }
