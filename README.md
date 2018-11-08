@@ -119,4 +119,11 @@
       - JTree
       - DefaultMutableTreeNode
       - JScrollPane
-
+  - (47) Dialogs
+      - Information dialog
+      - Warning dialog
+      - Error dialog
+      - Options dialog
+      - Confirm dialog
+      - Input dialog
+      - Spinner dialog
