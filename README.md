@@ -127,3 +127,9 @@
       - Confirm dialog
       - Input dialog
       - Spinner dialog
+  - (48) JFileChooser
+      - showDialog()
+      - FileNameExtensionFilter
+      - APPROVE_OPTION and CANCEL_OPTION
+      - File
+      
