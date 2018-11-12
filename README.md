@@ -136,5 +136,10 @@
   - (50) JTreeModel
       - implements TreeCellRenderer
       - extends JPanel
+  - (51) JTable
+      - Representations (Simple data, simple model, custom model)
+      - Data management (Information, add and delete rows)
+      - extends DefaultTableModel (The custom model)
+      - ListSelectionListener
       
       
