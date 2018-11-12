@@ -132,4 +132,5 @@
       - FileNameExtensionFilter
       - APPROVE_OPTION and CANCEL_OPTION
       - File
+  - (49) JColorChooser
       
