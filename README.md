@@ -141,5 +141,7 @@
       - Data management (Information, add and delete rows)
       - extends DefaultTableModel (The custom model)
       - ListSelectionListener
+  - (52) JTable
+      - extends AbstractTableModel (The custom model)
       
       
