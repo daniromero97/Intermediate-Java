@@ -143,5 +143,6 @@
       - ListSelectionListener
   - (52) JTable
       - extends AbstractTableModel (The custom model)
-      
-      
+  - (53) MVC and SwingUtilities
+      - Model view controller
+      - SwingUtilities.invokeLater()
