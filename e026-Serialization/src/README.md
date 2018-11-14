@@ -2,5 +2,5 @@
 - If our class has attributes that are other classes, they should also implement the interface.
 - Serialization is maintained even through the network, that is to say that we do not have to worry about the different representations of data in the different computers.
 - It supports:
-    * Remote invocation of objects (RMI)
-    * The persistence of data
+    - Remote invocation of objects (RMI)
+    - The persistence of data

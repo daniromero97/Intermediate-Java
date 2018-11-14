@@ -1,0 +1,2 @@
+- The purpose of the instanceof operator is to know if an object is of a certain type.
+- It may happen that the object that we are checking with instanceof is not a direct instance of the class, but instanceof will return true if the object is of a compatible type as a subclass.

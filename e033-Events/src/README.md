@@ -7,9 +7,9 @@
 - Each Listener has a series of methods that we must implement.
 
 - Common Listeners:
-    * ActionListener (when clicking on a component or enter if it has the focus)
-    * ItemListener (when the state of a component changes)
-    * KeyListener (by pressing a key)
-    * FocusListener (when a component gains or loses focus, that is, it is selected)
-    * MouseListener (when performing an action with the mouse)
-    * MouseMotionListener (when moving the mouse)
+    - ActionListener (when clicking on a component or enter if it has the focus)
+    - ItemListener (when the state of a component changes)
+    - KeyListener (by pressing a key)
+    - FocusListener (when a component gains or loses focus, that is, it is selected)
+    - MouseListener (when performing an action with the mouse)
+    - MouseMotionListener (when moving the mouse)

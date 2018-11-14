@@ -1,0 +1,5 @@
+- In the following exercise we will see:
+    - Basic graphic components
+    - How to instantiate them
+    - Add them to the default layout
+    - Some of its properties

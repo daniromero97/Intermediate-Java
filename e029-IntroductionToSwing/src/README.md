@@ -4,13 +4,13 @@
 
 - The JFrame class provides operations to manipulate windows.
 - After creating the object you have to:
-    * Set the size
-    * Set the closing action.
-    * Make it visible.
+    - Set the size
+    - Set the closing action.
+    - Make it visible.
 
 
 - Example:
-
+    ```
     import javax.swing.*;
     public class Main
     {
@@ -22,12 +22,12 @@
             f.setVisible(true);
         }
     }
-
+    ```
 
 - Closing actions:
-    * JFrame.EXIT_ON_CLOSE: Quit application.
-    * JFrame.DISPOSE_ON_CLOSE: Releases the resources associated with the window.
-    * JFrame.DO_NOTHING_ON_CLOSE: It does not do anything.
-    * JFrame.HIDE_ON_CLOSE: Close the window, without releasing its resources.
+    - JFrame.EXIT_ON_CLOSE: Quit application.
+    - JFrame.DISPOSE_ON_CLOSE: Releases the resources associated with the window.
+    - JFrame.DO_NOTHING_ON_CLOSE: It does not do anything.
+    - JFrame.HIDE_ON_CLOSE: Close the window, without releasing its resources.
 
 - The normal thing is to create a class, extend JFrame, and perform the initialization operations in its constructor or in an init method.

@@ -1,6 +1,7 @@
 - Overloading methods is a feature that allows a class to have more than one method with the same name, if their arguments are different.
 - Example:
 
+    ```
     public class Car
     {
         // Properties
@@ -27,6 +28,6 @@
         }
 
     }
-
+    ```
 
 - The method "speedUp()" is overloaded.
