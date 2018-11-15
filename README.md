@@ -146,3 +146,6 @@
   - (53) MVC and SwingUtilities
       - Model view controller
       - SwingUtilities.invokeLater()
+  - (54) Exercise
+      - Exercise of personal data management.
+      - Review (MVC, JTable, JDialog, listeners, various components, etc.)
